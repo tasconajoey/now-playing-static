@@ -243,4 +243,7 @@ figure {
   article:not(:first-child) .movie-backdrop {
     display: none;
   }
+  .site-footer {
+    clear: both;
+  }
 }
